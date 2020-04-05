@@ -1,5 +1,4 @@
 # ConditionParser
-A parser of string conditions
 
 Text Condtion can include And or Or logic condition combined with parentheses.
 For example:
